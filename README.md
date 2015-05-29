@@ -1,1 +1,2 @@
 # SliderPHP
+La tu vois c'est un slider en PHP/html/javascript, ce qui est magique avec, c'est que mon slider qui fonctionne en javascript a besoin d'une liste en html des photos a afficher. bon jusque là c'est ok, mais comme je suis feignant je vais générer la liste de mes photos qui sont dans un dossier de tel manière que mon slider vienne chercher tout seul les photo dont il a besoin. Je rajoute une photo, t'actualise la page du slider et hop! la photo est dedans!. 
